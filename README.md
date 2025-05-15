@@ -26,8 +26,11 @@ It is assumed that there will always be a safe path that the agent can take to e
 <h1>Sample Input and Output:</h1>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+<img src = "https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f" height = 200px width = 220px>
+
+<img src = "https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b" height = 200px width = 220px>
+
+
 
 ## Program
 
@@ -148,7 +151,8 @@ while(player):
 ```
 
 ## Output
-![image](./output.png)
+<!-- ![image](./output.png) -->
+<img src = "./output.png" height = 300px width = 250px>
 
 ## Result
 Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
